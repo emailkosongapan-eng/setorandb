@@ -1,0 +1,26 @@
+{
+  "full up": {
+    "enabled": true,
+    "buyer": true
+  },
+  "ress": {
+    "enabled": true,
+    "buyer": true
+  },
+  "pt": {
+    "enabled": true,
+    "buyer": true
+  },
+  "mod": {
+    "enabled": true,
+    "buyer": true
+  },
+  "owner": {
+    "enabled": true,
+    "buyer": true
+  },
+  "creator": {
+    "enabled": true,
+    "buyer": true
+  }
+}
