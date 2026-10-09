@@ -1,1 +1,26 @@
-[]
+{
+  "full up": {
+    "enabled": true,
+    "buyer": true
+  },
+  "reseller": {
+    "enabled": true,
+    "buyer": true
+  },
+  "partner": {
+    "enabled": true,
+    "buyer": true
+  },
+  "moderator": {
+    "enabled": true,
+    "buyer": true
+  },
+  "owner": {
+    "enabled": true,
+    "buyer": true
+  },
+  "creator": {
+    "enabled": true,
+    "buyer": true
+  }
+}
