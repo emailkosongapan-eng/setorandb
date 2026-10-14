@@ -24,9 +24,9 @@
     "proofType": "photo",
     "fileId": "AgACAgUAAxkBAAIIbmrPaOwWdDgBT5B-Zvy2HRaLD3z8AAISEmsb5Gt4VjKKooByylY5AQADAgADdwADPQQ",
     "caption": "-",
-    "status": "pending",
+    "status": "approved",
     "createdAt": "2026-10-14T11:35:09.044Z",
-    "reviewedAt": null,
-    "reviewedBy": null
+    "reviewedAt": "2026-10-14T11:35:31.051Z",
+    "reviewedBy": 8042378125
   }
 ]
