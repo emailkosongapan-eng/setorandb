@@ -69,9 +69,9 @@
     "proofType": "photo",
     "fileId": "AgACAgUAAxkBAAIIlmrRYoPBZ1nSNR1qxWi14E0B0i7dAAIqFGsbVNqIVoinwQmNFHGKAQADAgADdwADPQQ",
     "caption": "-",
-    "status": "pending",
+    "status": "approved",
     "createdAt": "2026-10-15T23:32:20.240Z",
-    "reviewedAt": null,
-    "reviewedBy": null
+    "reviewedAt": "2026-10-15T23:32:27.043Z",
+    "reviewedBy": 8944890162
   }
 ]
