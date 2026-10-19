@@ -114,9 +114,9 @@
     "proofType": "photo",
     "fileId": "AgACAgUAAxkBAAIIyWrWBnhAbpFdDMoQGF9lTMbxibfVAAKGE2sbeo2pVmPGlsv7ygrIAQADAgADdwADPQQ",
     "caption": "-",
-    "status": "pending",
+    "status": "approved",
     "createdAt": "2026-10-19T12:01:11.206Z",
-    "reviewedAt": null,
-    "reviewedBy": null
+    "reviewedAt": "2026-10-19T12:01:17.055Z",
+    "reviewedBy": 8018436478
   }
 ]
